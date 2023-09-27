@@ -1,0 +1,69 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.topelec.canteen.ResumeActivity">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingTop="125dp"
+        android:paddingRight="20dp">
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+
+            android:scaleType="fitXY"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/food" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="智慧食堂——消费端"
+            android:textSize="24sp"
+            android:typeface="serif" />
+        <TextView
+            android:id="@+id/resume_remain_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="余额：NULL"
+            android:textSize="30dp"
+            android:gravity="center"
+            />
+        <EditText
+            android:id="@+id/editText_resume"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:hint="请输入支付金额"
+            android:inputType="number" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/resume_confirm_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="确认" />
+
+            <Button
+                android:id="@+id/resume_cancel_btn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="取消" />
+        </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

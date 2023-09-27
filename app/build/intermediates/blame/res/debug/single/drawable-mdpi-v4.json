@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ico_delete_asset.png",
+        "source": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\lib\\build\\intermediates\\bundles\\default\\res\\drawable-mdpi-v4\\ico_delete_asset.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\ryb\\.android\\build-cache\\36950034dcddabb12a6e33baaac70b5e9ea49dc5\\output\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    }
+]

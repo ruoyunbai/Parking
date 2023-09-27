@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_coverflow_activity.xml",
+        "source": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\src\\main\\res\\menu\\menu_coverflow_activity.xml"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main2_drawer.xml",
+        "source": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\src\\main\\res\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_query.xml",
+        "source": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\src\\main\\res\\menu\\menu_query.xml"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main2.xml",
+        "source": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\src\\main\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
+        "source": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\src\\main\\res\\menu\\menu_scrolling.xml"
+    },
+    {
+        "merged": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_buscard.xml",
+        "source": "D:\\CoverFlow-master_demo-master (1)\\CoverFlow-master_demo-master\\app\\src\\main\\res\\menu\\menu_buscard.xml"
+    }
+]

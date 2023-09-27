@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:2:1-95:12
+	package
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:5:5-90:19
+MERGED from [com.github.moondroid.coverflow:lib:1.0] D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\lib\build\intermediates\bundles\default\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:design:22.2.1] C:\Users\ryb\.android\build-cache\fe11d6b3acd71fa5d86f6ef0f0350e0cf5c9fd0e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\ryb\.android\build-cache\33ef04b42f7fc2b4e82a6f485ffe7ce2725f5265\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\ryb\.android\build-cache\e299c613fe9f71d6b38cce690374a88eaf2062a1\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ryb\.android\build-cache\36950034dcddabb12a6e33baaac70b5e9ea49dc5\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\ryb\.android\build-cache\a4896114e90415df69d9999c1c8ac5802fdc15c7\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\ryb\.android\build-cache\03a3d40ca1e98c215d3860fbfb2f23e1c6903ac3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\ryb\.android\build-cache\16adc06385a54596a32a36d336e781ef18382388\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\ryb\.android\build-cache\0cfc150643e8816aaf792a136e73528f44af27b9\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:allowBackup
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:9:9-52
+activity#it.moondroid.coverflowdemo.CoverFlowActivity
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:11:10-18:21
+	android:label
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:13:10-42
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:12:10-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:14:10-17:26
+action#android.intent.action.MAIN
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:15:10-62
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:15:18-59
+category#android.intent.category.LAUNCHER
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:16:10-70
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:16:20-67
+activity#com.topelec.smarthome.MainActivity
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:20:10-30:21
+	android:configChanges
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:22:10-71
+	android:theme
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:23:10-48
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:21:10-59
+intent-filter#android.intent.category.DEFAULT+com.topelec.smarthome.ACTION_SMARTHOME
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:24:10-29:26
+action#com.topelec.smarthome.ACTION_SMARTHOME
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:25:10-74
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:25:18-71
+category#android.intent.category.DEFAULT
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:28:10-69
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:28:20-66
+activity#com.topelec.smarthome.Settings
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:31:10-68
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:31:20-65
+activity#com.topelec.smartagriculture.MainActivity
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:32:10-39:21
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:32:20-76
+intent-filter#android.intent.category.DEFAULT+com.topelec.smartagriculture.ACTION_AGRICULTURE
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:33:10-38:26
+action#com.topelec.smartagriculture.ACTION_AGRICULTURE
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:34:10-83
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:34:18-80
+activity#com.topelec.smartagriculture.SmartAgricultureSettings
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:40:10-91
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:40:20-88
+activity#com.topelec.foodtraceability.QueryActivity
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:41:10-48:21
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:41:20-77
+intent-filter#android.intent.category.DEFAULT+com.topelec.foodtraceability.ACTION_FOODTRACEABILITY
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:42:10-47:26
+action#com.topelec.foodtraceability.ACTION_FOODTRACEABILITY
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:43:10-88
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:43:18-85
+activity#com.topelec.foodtraceability.SettingsActivity
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:49:10-83
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:49:20-80
+activity#com.topelec.buscard.CardActivityGroup
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:50:10-57:21
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:50:20-72
+intent-filter#android.intent.category.DEFAULT+com.topelec.buscard.ACTION_BUSCARD
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:51:10-56:26
+action#com.topelec.buscard.ACTION_BUSCARD
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:52:10-70
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:52:18-67
+activity#com.topelec.buscard.RechargeActivity
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:58:10-74
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:58:20-71
+activity#com.topelec.buscard.ResumeActivity
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:59:10-72
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:59:20-69
+activity#com.topelec.canteen.CanteenActivityGroup
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:62:10-67:21
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:62:20-75
+intent-filter#android.intent.category.DEFAULT+com.topelec.canteen.ACTION_CANTEEN
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:63:15-66:31
+action#com.topelec.canteen.ACTION_CANTEEN
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:64:20-80
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:64:28-77
+activity#com.topelec.canteen.RechargeActivity
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:68:9-73
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:68:19-70
+activity#com.topelec.canteen.ResumeActivity
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:69:9-71
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:69:19-68
+receiver#com.topelec.BootReceiver
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:83:9-89:20
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:83:19-58
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:84:13-88:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:86:17-87:26
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:86:25-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:93:5-97
+	android:name
+		ADDED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml:93:22-78
+uses-sdk
+INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.github.moondroid.coverflow:lib:1.0] D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\lib\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:22.2.1] C:\Users\ryb\.android\build-cache\fe11d6b3acd71fa5d86f6ef0f0350e0cf5c9fd0e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\ryb\.android\build-cache\33ef04b42f7fc2b4e82a6f485ffe7ce2725f5265\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-appindexing:9.8.0] C:\Users\ryb\.android\build-cache\e299c613fe9f71d6b38cce690374a88eaf2062a1\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ryb\.android\build-cache\36950034dcddabb12a6e33baaac70b5e9ea49dc5\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.8.0] C:\Users\ryb\.android\build-cache\a4896114e90415df69d9999c1c8ac5802fdc15c7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\ryb\.android\build-cache\03a3d40ca1e98c215d3860fbfb2f23e1c6903ac3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\ryb\.android\build-cache\16adc06385a54596a32a36d336e781ef18382388\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\ryb\.android\build-cache\0cfc150643e8816aaf792a136e73528f44af27b9\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\ryb\.android\build-cache\0cfc150643e8816aaf792a136e73528f44af27b9\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ryb\.android\build-cache\36950034dcddabb12a6e33baaac70b5e9ea49dc5\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ryb\.android\build-cache\36950034dcddabb12a6e33baaac70b5e9ea49dc5\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ryb\.android\build-cache\36950034dcddabb12a6e33baaac70b5e9ea49dc5\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ryb\.android\build-cache\36950034dcddabb12a6e33baaac70b5e9ea49dc5\output\AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\ryb\.android\build-cache\a4896114e90415df69d9999c1c8ac5802fdc15c7\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\ryb\.android\build-cache\a4896114e90415df69d9999c1c8ac5802fdc15c7\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\ryb\.android\build-cache\a4896114e90415df69d9999c1c8ac5802fdc15c7\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\ryb\.android\build-cache\a4896114e90415df69d9999c1c8ac5802fdc15c7\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.8.0] C:\Users\ryb\.android\build-cache\a4896114e90415df69d9999c1c8ac5802fdc15c7\output\AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\ryb\.android\build-cache\16adc06385a54596a32a36d336e781ef18382388\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\ryb\.android\build-cache\16adc06385a54596a32a36d336e781ef18382388\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\ryb\.android\build-cache\16adc06385a54596a32a36d336e781ef18382388\output\AndroidManifest.xml:20:20-65

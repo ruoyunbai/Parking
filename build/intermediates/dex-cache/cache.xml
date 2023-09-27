@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\lib\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b00240729c1b62eaf5aeaf05e18d460c3da2ddbf">
+        <dex dex="D:\CoverFlow-master_demo-master (1)\CoverFlow-master_demo-master\app\build\intermediates\pre-dexed\debug\classes_cdbfc210ee4b70b79805887a671d7ff48769f7ea.jar" />
+    </item>
+
+</items>
